@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Sharath R Achar
 
-<!--
-**sharathrachar/sharathrachar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 3rd Year Engineering Student | 💻 Developer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+> *Learning today. Building tomorrow. 🚀*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm a 3rd-year engineering student passionate about **technology, programming, and web development**.
+
+- 🌱 Currently learning **Web Development & Programming**
+- 💡 Interested in building **real-world projects**
+- 🧠 Always curious to learn new technologies
+- 🚀 Turning ideas into simple and useful applications
+- 🎯 Preparing myself for **internships & placements**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`C` `C++` `Java` `Python`
+
+**Web**
+
+`HTML` `CSS` `JavaScript`
+
+**Tools**
+
+`Git` `GitHub` `VS Code` `NetBeans`
+
+---
+
+## 🚀 Featured Project
+
+### ☕ Cafe Website
+
+A simple and attractive café website built using **HTML & CSS**.
+
+🔗 [View Project](https://github.com/sharathrachar/Cafe-Website)
+
+---
+
+## 📚 Currently Learning
+
+```text
+Web Development
+Java
+Python
+Data Structures & Algorithms
+SQL
+Git & GitHub
